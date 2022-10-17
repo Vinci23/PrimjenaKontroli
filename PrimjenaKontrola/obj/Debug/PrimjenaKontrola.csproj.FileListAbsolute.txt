@@ -1,0 +1,12 @@
+C:\Users\ucenik\source\repos\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe.config
+C:\Users\ucenik\source\repos\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.exe
+C:\Users\ucenik\source\repos\PrimjenaKontrola\bin\Debug\PrimjenaKontrola.pdb
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Form1.resources
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.Properties.Resources.resources
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.exe
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.pdb
+C:\Users\ucenik\source\repos\PrimjenaKontrola\obj\Debug\PrimjenaKontrola.FormaTekst.resources
